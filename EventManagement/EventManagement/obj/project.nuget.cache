@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEIdPn4eDkMUT+Kr7vlaRMFvAnWfEUXuNPTUOWSI2IQAtRNi9KHXRX8bbLSMRiH5mmCFLks+SunQpwre/dYM5A==",
+  "dgSpecHash": "Kw5kbXwLlHioEdFRoVPWNMU7Ex5sK1n6bU6T2fSLNP0KZ7Nwj9sJhRF+juKTKmwLzygMEnCGpHK2PBZKYgjnLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SHUBHAM\\Desktop\\New folder (2)\\Event\\EventManagement\\EventManagement\\EventManagement.csproj",
+  "projectFilePath": "C:\\Users\\SHUBHAM\\Desktop\\C# Assignment 3 code push\\New folder (2)\\Event\\EventManagement\\EventManagement\\EventManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHUBHAM\\.nuget\\packages\\jose-jwt\\2.6.1\\jose-jwt.2.6.1.nupkg.sha512",
     "C:\\Users\\SHUBHAM\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.25\\microsoft.aspnetcore.authentication.google.3.1.25.nupkg.sha512",
